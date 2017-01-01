@@ -1,7 +1,5 @@
 <!-- lang: html -->
 
----
 title: Hello, My Blog
----
 
 {{ page.title }}
