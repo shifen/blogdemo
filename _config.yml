@@ -2,3 +2,5 @@ baseurl: /blogdemo
 #theme: minimal-jekyll-theme
 
 # vim: ts=2 sw=2 et
+
+theme: jekyll-theme-minimal
