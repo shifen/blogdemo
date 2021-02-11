@@ -3,4 +3,4 @@ baseurl: /blogdemo
 
 # vim: ts=2 sw=2 et
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
